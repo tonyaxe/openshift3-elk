@@ -1,5 +1,8 @@
 # ELK-Stack on Openshift v3
 
+https://gitlab.com/lbischof/openshift3-elk
+![Moved to GitLab](https://i.imgur.com/wGgvnPq.png)
+
 **Under construction**
 
 These are modified dockerfiles from the official docker images. I removed the gosu stuff and made sure relevant files are world readable.
